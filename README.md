@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/gK9Z7N0.gif" width="100%" alt="Space Background">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Space Background">
 </div>
 
 <h1 align="center">
@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border:none;">
-      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_blue.gif" width="150" alt="Astronaut">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f638df.gif" width="200" alt="Astronaut">
     </td>
   </tr>
 </table>
@@ -71,14 +71,14 @@
 <h3 align="center">📊 Galactic Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phamviethoangfpt&show_icons=true&locale=en&layout=compact&theme=radical" alt="phamviethoangfpt" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=phamviethoangfpt&show_icons=true&locale=en&layout=compact&theme=radical" alt="phamviethoangfpt" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phamviethoangfpt&show_icons=true&locale=en&theme=radical" alt="phamviethoangfpt" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamviethoangfpt&show_icons=true&locale=en&theme=radical" alt="phamviethoangfpt" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamviethoangfpt&theme=radical" alt="phamviethoangfpt" />
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/gK9Z7N0.gif" width="100%" alt="Space Background">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Space Background">
 </div>
