@@ -32,6 +32,18 @@
   </a>
 </p>
 
+<h3 align="center">🚀 Featured Contributions</h3>
+<p align="center">
+  <a href="https://github.com/trungdq3305/park-smart">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trungdq3305&repo=park-smart&theme=dark&title_color=E0234E&icon_color=E0234E&border_radius=10" alt="park-smart" />
+  </a>
+  <a href="https://github.com/PhamVietHoangFPT/MLN122">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PhamVietHoangFPT&repo=MLN122&theme=dark&title_color=E0234E&icon_color=E0234E&border_radius=10" alt="MLN122" />
+</a>
+</p>
+
+<br/>
+
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,6 +55,14 @@
 
 <h3 align="center">📊 Statistics</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/PhamVietHoangFPT/PhamVietHoangFPT/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamviethoangfpt&bg_color=0D1117&color=E0234E&line=E0234E&point=FFFFFF&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=phamviethoangfpt&show_icons=true&locale=en&layout=compact&theme=dark&title_color=E0234E&icon_color=E0234E&border_radius=10" alt="Top Langs" />
 </p>
 
@@ -50,3 +70,5 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=phamviethoangfpt&show_icons=true&locale=en&theme=dark&title_color=E0234E&icon_color=E0234E&border_radius=10" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamviethoangfpt&theme=dark&stroke=E0234E&fire=E0234E&ring=E0234E&border_radius=10" alt="Streak" />
 </p>
+
+<br/>
